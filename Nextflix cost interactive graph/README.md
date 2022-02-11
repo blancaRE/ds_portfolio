@@ -1,4 +1,4 @@
-# Netflix cost interactive graph 
+# Netflix cost per month: interactive graph 
 This project shows how to do an interactive graph with dash plotly. The options selected by the user are:
 * Plan: basic, standard, premium or the average cost or the three available plans.
 * Number of countries to show in the bar plot and the pie plot. The bar plot depicts countries wioth the most expensive subscription type, and the pie plot shows the total library. size of the country.
