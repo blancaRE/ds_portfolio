@@ -2,8 +2,10 @@
 
 In this portfolio, you'll find the following projects:
 
-* [Adversarial attacks](https://github.com/blancaRE/ds_portfolio/blob/main/Adversarial%20attack/Readme.md)
-
+* [Adversarial attack](/Adversarial%20attack)
+* [Binary classification with Neural Networks](/Binary%20CLassification%20NN)
+* [Interactive graph: Netflix cost per month](/Nextflix%20cost%20interactive%20graph)
+* [Penguin species classifier](Penguin%20species%20classifier)
 
  
 
