@@ -5,3 +5,6 @@ This project shows how to do an interactive graph with dash plotly. The options 
 
 
 ![dash gif](https://user-images.githubusercontent.com/97046344/153580925-9bd46461-0740-4521-80d0-6f93a6ee3e0a.gif)
+
+
+ [View project](/Nextflix%20cost%20interactive%20graph/Dash_plotly_data_visualization.py)
