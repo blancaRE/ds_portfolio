@@ -7,5 +7,6 @@ In this portfolio, you'll find the following projects:
 * [Interactive graph: Netflix cost per month](/Nextflix%20cost%20interactive%20graph)
 * [Maternal mortality classifier](Maternal%20mortality)
 * [Web scrapping](Web%20scrapping)
+* [Exploratory Data Analysis](/EDA%20SReal%20state/EDA_Vienna.md)
 
 
